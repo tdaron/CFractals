@@ -6,7 +6,7 @@ This project is a learning project. Do not expect it to be bugless / perfect lma
 
 This projects heavily depends on SMFL and ImGUI. Meson is also required to run it (i think??) 
  
-[Installation instruction here.](https://letmegooglethat.com/?q=How+to+install+SFML+and+imgui+and+imgui-sfml){:target"_blank"}
+[Installation instruction here.](https://letmegooglethat.com/?q=How+to+install+SFML+and+imgui+and+imgui-sfml)
 
 
 # How to run the project
