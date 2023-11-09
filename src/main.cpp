@@ -50,7 +50,7 @@ int main() {
 
   //Simple shape the shader will draw on.
   sf::RectangleShape shaderOutput(sf::Vector2f(window.getSize()));
-  sf::CircleShape circle(5);
+  sf::CircleShape circle(2);
   circle.setFillColor(sf::Color::Red);
 
   sf::Shader shader;
